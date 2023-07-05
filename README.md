@@ -7,3 +7,6 @@ Useful links:
 - [HDInsight documentation](https://docs.microsoft.com/azure/hdinsight/)
 - [Learn HDInsight](https://docs.microsoft.com/en-us/learn/paths/build-oss-analytical-solutions-az-hdinsight/)
 - [Troubleshooting HDInsight common problems](https://github.com/hdinsight/hdinsight.github.io)
+
+
+We are listening : You’re welcome to add more ideas and other topics here and vote for them - [HDInsight Community (azure.com)](https://feedback.azure.com/d365community/search/?q=HDInsight) and follow us for more updates on [@AzureHDInsight](https://twitter.com/AzureHDInsight)
